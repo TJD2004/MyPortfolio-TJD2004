@@ -118,7 +118,7 @@ const About: React.FC<AboutProps> = ({ isDark }) => {
                 viewport={{ once: true }}
                 className={`leading-relaxed mb-4 ${isDark ? 'text-gray-300' : 'text-gray-600'}`}
               >
-                I'm an aspiring full-stack developer with a strong interest in modern web technologies. I’m currently a 2nd-year Computer Science student at Yashwantrao Chavan College of Engineering, Nagpur.
+                I'm an aspiring full-stack developer with a strong interest in modern web technologies. I’m currently a 2nd-year Computer Science and Enginnering student at Yashwantrao Chavan College of Engineering, Nagpur.
               </motion.p>
               <motion.p 
                 initial={{ opacity: 0 }}
